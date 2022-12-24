@@ -3,7 +3,7 @@
 * {
     box-sizing: border-box;
 }
-.container{
+.holder{
     display:flex;
     justify-content: flex;
     align-items: center;
