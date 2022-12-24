@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+* {
+    box-sizing: border-box;
+}
+.container{
+    display:flex;
+    justify-content: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid olive;
+    border-radius: 4px;
+    width:200px;
+    height:200px;
+
+
+}
